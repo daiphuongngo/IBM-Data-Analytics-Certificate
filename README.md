@@ -1,1 +1,1 @@
-# Data-Sciience-IBM
+# Data-Science-IBM
