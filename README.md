@@ -1,3 +1,3 @@
 # Data-Analytics-IBM
 
-I am currently pursuing this course and will complete it in August.
+I am currently pursuing this course.
